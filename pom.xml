@@ -8,7 +8,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fintechpath.com</groupId>
-	<artifactId>hystrixDashboards</artifactId>
+	<artifactId>OpenApiSpecification</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>OpenApiSpecificationDemo</name>
 	<description>Demo project for Open API and Swagger 2</description>
