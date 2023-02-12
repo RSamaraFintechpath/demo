@@ -14,8 +14,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.fintech.dto.User;
 import com.fintech.service.UserService;
 
+import io.swagger.v3.oas.annotations.tags.Tag;
+
 @RestController
 @RequestMapping("/user/")
+@Tag(name = "OpenApiSpecificationDemo")
 public class UserController {
 
 	@Autowired
@@ -36,8 +39,8 @@ public class UserController {
 		return userService.findUserbyId(id);
 	}
 
-	@DeleteMapping("/delete")
-	public void deleteById(int id) {
+	@DeleteMapping("/delete/{id}")
+	public void deleteById(@PathVariable int id) {
 		userService.deleteById(id);
 	}
 
