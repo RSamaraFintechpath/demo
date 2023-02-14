@@ -38,4 +38,26 @@ https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&
 | Technologies      | Description |
 | ----------- | ----------- |
 | SpringToolSuite      | This platform used to build our project in java 8 and it's recomended to make web services because its apply two concepts "inversion of control", "dependency injection".       |
-| PostMan   | API tool that we used for integrate our endpoints to test it on postman and see the results after run the program        |
+| PostMan   | API tool that we used for integrate our endpoints to test it on postman and see the results after run the program        |  
+</br>
+
+* **Features:**  
+In our project, when you will see the code you can see and learn one of the best practice work flow to build web service.  
+It's simple and readable, you can learn many things in it:  
+1. like how to connect with standarad database in sts **"H2 DB"**.
+2. Every method inside the code is clear, meaningful and make exactly single operation.
+3. We used swagger ui and swagger editor in open api to document our code and make more understandable as you see in the image above.  
+
+</br>
+
+* **Installation:**  
+Table below show you all tools you need to run the project on your computer:  
+
+| Tools      | Links to install |
+| ----------- | ----------- |
+| jdk 1.8      | https://www.codingpointer.com/blogs/install-java-windows       |
+| Eclipse   | https://www.eclipse.org/downloads/packages/installer        | 
+| SpringToolSuite   | https://www.javatpoint.com/spring-boot-download-and-install-sts-ide        | 
+| PostMan   | https://www.postman.com/downloads/        |
+
+
