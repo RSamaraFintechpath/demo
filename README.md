@@ -31,5 +31,12 @@ swagger editor page and test it by yourself by paste the content for the followi
 https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&cid=3260AA72161A422B&parId=root&parQt=sharedby&o=OneUp
 </br>
 </br>
-<a href = "https://editor.swagger.io/"><img src = "https://user-images.githubusercontent.com/125183735/218693465-c94a96e7-124f-4f24-a243-84fac649d0f3.JPG"></a>
-
+<a href = "https://editor.swagger.io/"><img src = "https://user-images.githubusercontent.com/125183735/218693465-c94a96e7-124f-4f24-a243-84fac649d0f3.JPG"></a>  
+</br>
+* **Tech/Framework used:**  
+Table below show you the technologies that we are used to build the project:  
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
