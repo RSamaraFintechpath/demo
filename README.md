@@ -35,7 +35,7 @@ https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&
 </br>
 * **Technologies used:**
 
-| Syntax      | Description |
+| Technologies      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| SpringToolSuite      | This platform used to build our project in java 8 and it's recomended to make web services because its apply two concepts "inversion of control", "dependency injection".       |
 | Paragraph   | Text        |
