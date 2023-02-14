@@ -38,4 +38,4 @@ https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&
 | Technologies      | Description |
 | ----------- | ----------- |
 | SpringToolSuite      | This platform used to build our project in java 8 and it's recomended to make web services because its apply two concepts "inversion of control", "dependency injection".       |
-| Paragraph   | Text        |
+| PostMan   | API tool that we used for integrate our endpoints to test it on postman and see the results after run the program        |
