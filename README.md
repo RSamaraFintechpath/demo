@@ -36,7 +36,6 @@ https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&
 
 * **Tech/Framework used:**  
 Table below show you the technologies that we are used to build the project:  
-</br>
 | Command | Description |
 | --- | --- |
 
