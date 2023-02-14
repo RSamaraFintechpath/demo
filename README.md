@@ -33,7 +33,7 @@ https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&
 </br>
 <a href = "https://editor.swagger.io/"><img src = "https://user-images.githubusercontent.com/125183735/218693465-c94a96e7-124f-4f24-a243-84fac649d0f3.JPG"></a>  
 </br>
-* **Technologies used:**
+* **Technologies used:**  
 
 | Technologies      | Description |
 | ----------- | ----------- |
@@ -65,4 +65,4 @@ Table below show you all tools you need to run the project on your computer:
 * **Work Flow:**  
 Picture below show you how project working:  
 
-
+<img src = "https://user-images.githubusercontent.com/125183735/218747729-deb8e5db-e272-4318-b58f-e13a0ba20f7e.png">
