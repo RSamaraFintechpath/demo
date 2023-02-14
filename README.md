@@ -33,11 +33,11 @@ https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&
 </br>
 <a href = "https://editor.swagger.io/"><img src = "https://user-images.githubusercontent.com/125183735/218693465-c94a96e7-124f-4f24-a243-84fac649d0f3.JPG"></a>  
 </br>
+
 * **Tech/Framework used:**  
 Table below show you the technologies that we are used to build the project:  
 </br>
 | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |  
+
 
