@@ -24,6 +24,5 @@ We use the standard code style created by **SpringToolSuite** Framework, and the
 </br>
 
 * **Screenshots:**  
-In the Iframe below you will see how our API working in swagger representation:  
-
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+In screenshots below we will see the swagger ui representation for our project and if you click on the image you will go to  
+swagger editor page and test it by yourself by paste the content for the following link:  
