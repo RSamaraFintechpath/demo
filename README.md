@@ -27,7 +27,9 @@ We use the standard code style created by **SpringToolSuite** Framework, and the
 In screenshots below we will see the swagger ui representation for our project and if you click on the image you will go to  
 swagger editor page and test it by yourself by paste the content for the following link:  
   
-**Link to paste it in swagger editor:**  
-https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&cid=3260AA72161A422B&parId=root&parQt=sharedby&o=OneUp  
-<img src = >
+**Link to paste it in swagger editor (yaml file):**
+https://onedrive.live.com/?authkey=%21AEwQkaRE1hjvBCY&id=3260AA72161A422B%21127&cid=3260AA72161A422B&parId=root&parQt=sharedby&o=OneUp
+</br>
+</br>
+<a href = "https://editor.swagger.io/"><img src = "https://user-images.githubusercontent.com/125183735/218693465-c94a96e7-124f-4f24-a243-84fac649d0f3.JPG"></a>
 
