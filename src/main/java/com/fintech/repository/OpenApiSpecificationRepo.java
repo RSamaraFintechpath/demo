@@ -8,5 +8,4 @@ import com.fintech.dto.User;
 @Repository
 public interface OpenApiSpecificationRepo extends JpaRepository<User, Integer> {
 
-	
 }

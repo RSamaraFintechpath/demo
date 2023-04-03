@@ -2,6 +2,8 @@ package com.fintech.controller;
 
 import java.util.List;
 
+import javax.persistence.Entity;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -19,6 +21,7 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 @RestController
 @RequestMapping("/user/")
 @Tag(name = "OpenApiSpecificationDemo")
+@Entity
 public class UserController {
 
 	@Autowired
