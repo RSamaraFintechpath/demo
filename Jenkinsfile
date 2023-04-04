@@ -9,7 +9,7 @@ pipeline {
     stage('Scan') {
       steps {
         withSonarQubeEnv(installationName: 'sq1') { 
-          sh 'mvn clean deploy org.sonarsource.scanner.maven:sonar-maven-plugin:3.8.0.2131:sonar'
+          sh 'mvn clean verify org.sonarsource.scanner.maven:sonar-maven-plugin:3.8.0.2131:sonar'
         }
       }
     }
